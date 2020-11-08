@@ -1,5 +1,10 @@
 # sample-spring-boot-kitchensink
 
+### Step 2
+
+Tap the deploy button.
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/naomichi0904/lineline)
 ## What is this?
 
 This is a full-featured sample application for the LINE Messaging API.
